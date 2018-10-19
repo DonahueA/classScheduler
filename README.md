@@ -1,6 +1,6 @@
 # classScheduler
 
-With this python script you can easily determine your schedule for any semester. Classes schedules are scraped from the web then used to create a schedule.
+With this python script you can easily determine your schedule for any semester. Classes schedules are scraped from the web then used to create schedules.
 
 This was a small project I developed for personal use.
 
